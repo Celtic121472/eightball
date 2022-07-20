@@ -23,8 +23,8 @@ var options = [
   " most certainly yes",
   "Positive",
   "Better not tell you now",
-  "I is so",
-  "Concentrate and ask again"
+  "It is so",
+  "Concentrate and ask again",
 ];
 
 button.addEventListener("click", function(){

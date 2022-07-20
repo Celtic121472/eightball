@@ -2,11 +2,13 @@ body {
     text-align: center;
     font-family: 'Helvetica Neue', arial;
     font-weight: 100;
+    background-color: bisque;
   }
   
   h1 {
-    font-weight: 100;
-    font-size: 3em;
+    font-weight: bolder;
+    font-size: 3rem;
+    text-shadow: darkcyan 1rem 1rem;
   }
   
   p {
@@ -16,46 +18,49 @@ body {
   div.eight-ball {
     background-color: black;
     border: 1px solid black;
-    border-radius: 50%;
-    width: 300px;
-    height: 300px;
-    margin: 0 auto;
+    border-radius: 60%;
+    width: 15rem;
+    height: 15rem;
+    margin: 1% auto;
+    color:
   }
   
   div.answer {
     background-color: #333;
-    border: 1px solid #333;
-    border-radius: 50%;
+    border:.3rem solid #333;
+    border-radius: 75%;
     width: 50%;
     height: 50%;
     margin: 25% auto;
   }
   
   p#eight {
-    font-size: 5em;
-    margin: 20% auto;
+    font-size: .2rem;
+    margin: 1rem auto;
     color: white;
   }
   
   p#answer {
-    padding: 25px;
+    padding:1rem;
     color: lightblue;
-    letter-spacing: 2px;
+    letter-spacing: .25rem;
   }
   
   button, input {
-    margin: 20px;
-    padding: 10px;
-    border: 1px solid black;
-    border-radius: 10px;
+    margin: 1.5rem;
+    padding: 1rem;
+    color:green;
+    border: .2rem, solid black;
+    border-radius: 1rem;
     cursor: pointer;
-    font-size: 1.2em;
+    font-size: 1.2rem;
     font-family: 'Helvetica Neue', arial;
     font-weight: 100;
-    letter-spacing: 2px;
+    letter-spacing: .1rem;
     transition: .5s font-size;
+    
   }
   
   button:hover {
-    font-size: 1.4em;
+    font-size: 1.4rem;
   }
