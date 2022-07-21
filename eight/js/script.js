@@ -8,7 +8,7 @@ var options = [
   "Most certainly",
   "It is decidedly so",
   "What's you answer.Lol",
-  "Yes – definitely",
+  "Yes  definitely",
   "You may rely on it",
   "As I see it, yes",
   "Most likely",
