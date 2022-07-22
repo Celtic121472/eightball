@@ -2,7 +2,7 @@ body {
     text-align: center;
     font-family: 'Helvetica Neue', arial;
     font-weight: 100;
-    background-color: bisque;
+    background-color:violet;
   }
   
   h1 {
@@ -35,13 +35,13 @@ body {
   }
   
   p#eight {
-    font-size: .2rem;
+    font-size:5rem;
     margin: 1rem auto;
     color: white;
   }
   
   p#answer {
-    padding:1rem;
+    padding:.5rem;
     color: lightblue;
     letter-spacing: .25rem;
   }
