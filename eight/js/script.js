@@ -12,6 +12,7 @@ var options = [
   "You may rely on it",
   "As I see it, yes",
   "Most likely",
+  "ask again in 1 hour",
   "Outlook good",
   "Yes",
   "Signs point to yes",
