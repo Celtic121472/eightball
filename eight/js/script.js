@@ -2,7 +2,6 @@ var button = document.getElementById("button");
 var input = document.getElementById("input");
 var answer = document.getElementById("answer");
 var eight = document.getElementById("eight");
-var options = ["yes", "no", "maybe"];
 var options = [
   " For sure!",
   "Most certainly",
