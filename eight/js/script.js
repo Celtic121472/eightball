@@ -19,7 +19,7 @@ var options = [
   "Don’t count it out",
   "My reply is,if you make it so",
   "My sources say bank on it",
-  "Outlook not so good",
+  "Outlook  good",
   "Without a doubt",
   " most certainly yes",
   "Positive",
